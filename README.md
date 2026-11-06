@@ -1,7 +1,5 @@
 # Ben Pham
 
-Mechanical Engineering @ SJSU. Designing and engineering intelligent systems and fluid interfaces for humans and machines.
-
 <pre>
 ben pham
 ├── planned
