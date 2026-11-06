@@ -4,7 +4,7 @@ Mechanical Engineering @ SJSU. Designing and engineering intelligent systems and
 
 <pre>
 ben pham
-├── next
+├── planned
 │   └── 6-dof desktop robot arm / lamp
 ├── 2026
 │   ├── oct
