@@ -18,7 +18,7 @@ ben pham
 │   │   ├── <a href="https://github.com/benpham3206/tesla-semi-sim">tesla-semi-sim</a> — A phone-playable browser delivery simulation: couple, drive, dock.
 │   │   ├── <a href="https://github.com/benpham3206/tides">tides</a> — A journal Clawd keeps on the shore.
 │   │   └── <a href="https://github.com/benpham3206/live-stems">live-stems</a> — A local, live stem splitter running on your M-Series Mac.
-│   ├── sep
+│   ├── sept
 │   │   ├── <a href="https://github.com/benpham3206/Agent37">Agent37</a> — A Minecraft harness for AI agents to learn new skills and imitate player examples.
 │   │   ├── <a href="https://github.com/benpham3206/chasm">chasm</a> — A split, Alice layout keyboard inspired by the QK Alice Duo.
 │   │   ├── <a href="https://github.com/benpham3206/app-workshop">app-workshop</a> — A product-neutral Apple app workshop and ecosystem scaffold.
