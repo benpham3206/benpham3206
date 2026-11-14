@@ -2,8 +2,8 @@
 
 <pre>
 ben pham
-├── planned
-│   └── 6-dof desktop robot arm / lamp
+├── next
+│   └── exploring: dyson-style task lamp + end effector (ref: <a href="https://github.com/stevenbennett/Open-Task-Light">Open Task Light</a>)
 ├── 2026
 │   ├── oct
 │   │   ├── <a href="https://github.com/benpham3206/principles">principles</a> — Axioms, principles, and taste for agents and people, in any medium.
